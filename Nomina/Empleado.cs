@@ -6,28 +6,37 @@ namespace Nomina
 {
     public class Empleado
     {
-        public String NumTrabajador { get; set; }
-        public String NombreCompleto { get; set; }
-        public String Cargo { get; set; }
-        public String Sueldo { get; set; }
-        public String PagoXHoraExtra { get; set; }
-        public String EstadoCivil { get; set; }
-        public String NumHijos { get; set; }
-        public String IRPF { get; set; }
-
-        public Empleado(String _numTrabajador, String _nombreCompleto, String _cargo, String _sueldo, String _pagoXHoraExtra, String _estadoCivil, String _numHijos, String _iRPF)
+        private int _id;
+        private String _NumTrabajador;
+        private String _NombreCompleto;
+        private String _Cargo;
+        private String _Sueldo;
+        private String _PagoXHoraExtra;
+        private String _EstadoCivil;
+        private String _NumHijos;
+        private String _IRPF;
+        public Empleado(int id, String NumTrabajador, String NombreCompleto, String Cargo, String Sueldo, String PagoXHoraExtra, String EstadoCivil, String NumHijos, String IRPF)
         {
-            NumTrabajador = _numTrabajador;
-            NombreCompleto = _nombreCompleto;
-            Cargo = _cargo;
-            Sueldo = _sueldo;
-            PagoXHoraExtra = _pagoXHoraExtra;
-            EstadoCivil = _estadoCivil;
-            NumHijos = _numHijos;
-            IRPF = _iRPF;
-
+            this._id = id;
+            this._NumTrabajador = NumTrabajador;
+            this._NombreCompleto = NombreCompleto;
+            this._Cargo = Cargo;
+            this._Sueldo = Sueldo;
+            this._PagoXHoraExtra = PagoXHoraExtra;
+            this._EstadoCivil = EstadoCivil;
+            this._NumHijos = NumHijos;
+            this._IRPF = IRPF;
 
         }
+        public int id { get => _id; set => _id = value; }
+        public String NumTrabajador { get => _NumTrabajador; set => _NumTrabajador = value; }
+        public String NombreCompleto { get => _NombreCompleto; set => _NombreCompleto = value; }
+        public String Cargo { get => _Cargo; set => _Cargo = value; }
+        public String Sueldo { get => _Sueldo; set => _Sueldo = value; }
+        public String PagoXHoraExtra { get => _PagoXHoraExtra; set => _PagoXHoraExtra = value; ; }
+        public String EstadoCivil { get => _EstadoCivil; set => _EstadoCivil = value; }
+        public String NumHijos { get => _NumHijos; set => _NumHijos = value; }
+        public String IRPF { get => _IRPF; set => _IRPF = value; }
 
     }
 }
