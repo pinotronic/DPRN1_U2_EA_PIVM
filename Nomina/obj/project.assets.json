@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Pinotronic\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\pinotronic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\DPRN1_U2_EA_PIVM\\Nomina\\Nomina.csproj",
+      "projectUniqueName": "C:\\Users\\pinotronic\\Desktop\\Nomina\\Nomina.csproj",
       "projectName": "Nomina",
-      "projectPath": "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\DPRN1_U2_EA_PIVM\\Nomina\\Nomina.csproj",
-      "packagesPath": "C:\\Users\\Pinotronic\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\DPRN1_U2_EA_PIVM\\Nomina\\obj\\",
+      "projectPath": "C:\\Users\\pinotronic\\Desktop\\Nomina\\Nomina.csproj",
+      "packagesPath": "C:\\Users\\pinotronic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pinotronic\\Desktop\\Nomina\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Pinotronic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\pinotronic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

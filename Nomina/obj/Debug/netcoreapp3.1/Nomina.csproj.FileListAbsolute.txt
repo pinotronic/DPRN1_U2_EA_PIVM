@@ -11,3 +11,16 @@ D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\
 D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\Nomina\obj\Debug\netcoreapp3.1\Nomina.dll
 D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\Nomina\obj\Debug\netcoreapp3.1\Nomina.pdb
 D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\Nomina\obj\Debug\netcoreapp3.1\Nomina.genruntimeconfig.cache
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.csprojAssemblyReference.cache
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.AssemblyInfoInputs.cache
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.AssemblyInfo.cs
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.dll
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.pdb
+C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.exe
+C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.deps.json
+C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.runtimeconfig.json
+C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.runtimeconfig.dev.json
+C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.dll
+C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.pdb
+C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.genruntimeconfig.cache

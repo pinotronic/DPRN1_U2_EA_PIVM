@@ -16,6 +16,7 @@ namespace Nomina
             Console.WriteLine("          *                                   *");
             Console.WriteLine("          *************************************");
             Console.WriteLine("\nPrograma que Muestra la nomina de un empleado.");
+            
 
         }
     }

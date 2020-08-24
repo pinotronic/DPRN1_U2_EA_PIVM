@@ -6,28 +6,24 @@ namespace Nomina
 {
     public class Empleado
     {
-        public String NumTrabajador { get; set; }
-        public String NombreCompleto { get; set; }
-        public String Cargo { get; set; }
-        public String Sueldo { get; set; }
-        public String PagoXHoraExtra { get; set; }
-        public String EstadoCivil { get; set; }
-        public String NumHijos { get; set; }
-        public String IRPF { get; set; }
+        private int _id;
+        private String _NumTrabajador;
+        private String _NombreCompleto;
+        private String _Cargo;
+        private String _Sueldo;
+        private String _PagoXHoraExtra;
+        private String _EstadoCivil;
+        private String _NumHijos;
+        private String _IRPF;
 
-        public Empleado(String _numTrabajador, String _nombreCompleto, String _cargo, String _sueldo, String _pagoXHoraExtra, String _estadoCivil, String _numHijos, String _iRPF)
-        {
-            NumTrabajador = _numTrabajador;
-            NombreCompleto = _nombreCompleto;
-            Cargo = _cargo;
-            Sueldo = _sueldo;
-            PagoXHoraExtra = _pagoXHoraExtra;
-            EstadoCivil = _estadoCivil;
-            NumHijos = _numHijos;
-            IRPF = _iRPF;
-
-
-        }
-
+        public int Id { get => _id; set => _id = value; }
+        public string NumTrabajador { get => _NumTrabajador; set => _NumTrabajador = value; }
+        public string NombreCompleto { get => _NombreCompleto; set => _NombreCompleto = value; }
+        public string Cargo { get => _Cargo; set => _Cargo = value; }
+        public string Sueldo { get => _Sueldo; set => _Sueldo = value; }
+        public string PagoXHoraExtra { get => _PagoXHoraExtra; set => _PagoXHoraExtra = value; }
+        public string EstadoCivil { get => _EstadoCivil; set => _EstadoCivil = value; }
+        public string NumHijos { get => _NumHijos; set => _NumHijos = value; }
+        public string IRPF { get => _IRPF; set => _IRPF = value; }
     }
 }
