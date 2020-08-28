@@ -4,10 +4,11 @@ using System.Text;
 
 namespace Nomina
 {
+    [Serializable()]
     public class Empleado
     {
-        private int _id;
-        private String _NumTrabajador;
+        
+        private int _NumTrabajador;
         private String _NombreCompleto;
         private String _Cargo;
         private String _Sueldo;
@@ -16,8 +17,8 @@ namespace Nomina
         private String _NumHijos;
         private String _IRPF;
 
-        public int Id { get => _id; set => _id = value; }
-        public string NumTrabajador { get => _NumTrabajador; set => _NumTrabajador = value; }
+        
+        public int NumTrabajador { get => _NumTrabajador; set => _NumTrabajador = value; }
         public string NombreCompleto { get => _NombreCompleto; set => _NombreCompleto = value; }
         public string Cargo { get => _Cargo; set => _Cargo = value; }
         public string Sueldo { get => _Sueldo; set => _Sueldo = value; }

@@ -24,3 +24,16 @@ C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.runtimeconfig.
 C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.dll
 C:\Users\pinotronic\Desktop\Nomina\bin\Debug\netcoreapp3.1\Nomina.pdb
 C:\Users\pinotronic\Desktop\Nomina\obj\Debug\netcoreapp3.1\Nomina.genruntimeconfig.cache
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\bin\Debug\netcoreapp3.1\Nomina.exe
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\bin\Debug\netcoreapp3.1\Nomina.deps.json
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\bin\Debug\netcoreapp3.1\Nomina.runtimeconfig.json
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\bin\Debug\netcoreapp3.1\Nomina.runtimeconfig.dev.json
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\bin\Debug\netcoreapp3.1\Nomina.dll
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\bin\Debug\netcoreapp3.1\Nomina.pdb
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.csprojAssemblyReference.cache
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.AssemblyInfoInputs.cache
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.AssemblyInfo.cs
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.dll
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.pdb
+D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\DPRN1_U2_EA_PIVM\DPRN1_U2_EA_PIVM-master\Nomina\obj\Debug\netcoreapp3.1\Nomina.genruntimeconfig.cache

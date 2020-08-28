@@ -6,7 +6,6 @@
         {
             Menu menu = new Menu();
             menu.menu();
-            Empleado empleado = new Empleado() { };
             Proceso solicitarOpciones = new Proceso();
             solicitarOpciones.SolicitarOpciones();
 

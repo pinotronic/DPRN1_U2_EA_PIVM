@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
@@ -18,13 +19,15 @@ namespace Nomina
             Stream flujo = File.Open(ruta,FileMode.Create);
             BinaryFormatter bin = new BinaryFormatter();
             bin.Serialize(flujo, lista);
-
+            flujo.Close();
         }
         public List<Empleado> deserializar()
         {
             Stream flujo = File.Open(ruta, FileMode.Open);
             BinaryFormatter bin = new BinaryFormatter();
-            return (List<Empleado>) bin.Deserialize(flujo);
+            List<Empleado> lista = (List<Empleado>)bin.Deserialize(flujo);
+            flujo.Close();
+            return lista;
         }
     }
 }
